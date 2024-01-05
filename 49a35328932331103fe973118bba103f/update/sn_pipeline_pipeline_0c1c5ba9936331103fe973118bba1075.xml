@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_pipeline">
+    <sn_pipeline_pipeline action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>Prod</name>
+        <pipeline_type display_value="Application Deployment">268f9c0fb73430100290b9708e11a9de</pipeline_type>
+        <source_environment display_value="dev">f3cb5f69936331103fe973118bba10bb</source_environment>
+        <sys_class_name>sn_pipeline_pipeline</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-05 15:49:24</sys_created_on>
+        <sys_id>0c1c5ba9936331103fe973118bba1075</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Prod</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1045591_corpor_0">49a35328932331103fe973118bba103f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">49a35328932331103fe973118bba103f</sys_scope>
+        <sys_update_name>sn_pipeline_pipeline_0c1c5ba9936331103fe973118bba1075</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-05 15:53:30</sys_updated_on>
+    </sn_pipeline_pipeline>
+</record_update>

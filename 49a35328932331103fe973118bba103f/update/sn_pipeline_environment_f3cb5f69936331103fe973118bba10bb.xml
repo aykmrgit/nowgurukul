@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_environment">
+    <sn_pipeline_environment action="INSERT_OR_UPDATE">
+        <instance_credential display_value="x_1045591_corpor_0.Pipeline_Dev_OAuth">e7ba5369936331103fe973118bba10f7</instance_credential>
+        <instance_id>d4731d2ddba675d805ef17291396190e</instance_id>
+        <instance_type>dev</instance_type>
+        <instance_url>https://dev213454.service-now.com/</instance_url>
+        <is_controller>false</is_controller>
+        <name>dev</name>
+        <sys_class_name>sn_pipeline_environment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-05 15:48:00</sys_created_on>
+        <sys_id>f3cb5f69936331103fe973118bba10bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dev</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1045591_corpor_0">49a35328932331103fe973118bba103f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">49a35328932331103fe973118bba103f</sys_scope>
+        <sys_update_name>sn_pipeline_environment_f3cb5f69936331103fe973118bba10bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-05 15:48:00</sys_updated_on>
+    </sn_pipeline_environment>
+</record_update>

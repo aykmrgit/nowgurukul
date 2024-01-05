@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <grant_type>authorization_code</grant_type>
+        <jwt_provider/>
+        <name>Dev Instance Connection default_profile</name>
+        <oauth_entity display_value="Dev Instance Connection">b13b5f69936331103fe973118bba10fc</oauth_entity>
+        <saml2_assertion_producer/>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-05 15:46:45</sys_created_on>
+        <sys_id>58ab57a9936331103fe973118bba10db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dev Instance Connection default_profile</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1045591_corpor_0">49a35328932331103fe973118bba103f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">49a35328932331103fe973118bba103f</sys_scope>
+        <sys_update_name>oauth_entity_profile_58ab57a9936331103fe973118bba10db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-05 15:46:45</sys_updated_on>
+    </oauth_entity_profile>
+</record_update>

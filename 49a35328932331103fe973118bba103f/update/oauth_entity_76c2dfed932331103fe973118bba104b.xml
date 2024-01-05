@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>60</auth_code_lifespan>
+        <auth_url/>
+        <certificate_url/>
+        <client_id>36c2dfed842331103fb0dd731e9b334b</client_id>
+        <client_secret>﷞﷟﷒12332d6593a231103fe973118bba10b0﷬﷔1﷬﷭sfv530a-LmppHSDQdlixnw==iF4pVO4yxbRZk8ZuFG3UNiHPHAWvT1ECmfI=﷮﷯</client_secret>
+        <client_uuid>f2c2dfed932331103fe973118bba104b</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>password</default_grant_type>
+        <id_token_lifespan>86400</id_token_lifespan>
+        <login_url/>
+        <logo_url/>
+        <message_signature_lifespan>60</message_signature_lifespan>
+        <mobile_client>false</mobile_client>
+        <name>Pipeline Development Client</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://dev182260.service-now.com/oauth_redirect.do, https://dev213454.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <restricted_binding>false</restricted_binding>
+        <revoke_token_url/>
+        <salt/>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-05 15:14:00</sys_created_on>
+        <sys_id>76c2dfed932331103fe973118bba104b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Pipeline Development Client</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1045591_corpor_0">49a35328932331103fe973118bba103f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">49a35328932331103fe973118bba103f</sys_scope>
+        <sys_update_name>oauth_entity_76c2dfed932331103fe973118bba104b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-05 15:14:00</sys_updated_on>
+        <token_url/>
+        <type>client</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+</record_update>
