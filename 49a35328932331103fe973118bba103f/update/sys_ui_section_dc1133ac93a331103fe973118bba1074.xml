@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="dc1133ac93a331103fe973118bba1074" sys_domain="global" table="x_1045591_corpor_0_employee" version="3" view="corporate_view">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_id>9c1133ac93a331103fe973118bba1075</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="1c11ff2c93a331103fe973118bba10b7">dc1133ac93a331103fe973118bba1074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_id>941133ac93a331103fe973118bba1076</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="1c11ff2c93a331103fe973118bba10b7">dc1133ac93a331103fe973118bba1074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_id>981133ac93a331103fe973118bba1076</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="1c11ff2c93a331103fe973118bba10b7">dc1133ac93a331103fe973118bba1074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_id>9c1133ac93a331103fe973118bba1076</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="1c11ff2c93a331103fe973118bba10b7">dc1133ac93a331103fe973118bba1074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_id>901133ac93a331103fe973118bba1077</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="1c11ff2c93a331103fe973118bba10b7">dc1133ac93a331103fe973118bba1074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>position_level</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_id>941133ac93a331103fe973118bba1077</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="1c11ff2c93a331103fe973118bba10b7">dc1133ac93a331103fe973118bba1074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manager</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_id>981133ac93a331103fe973118bba1077</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="1c11ff2c93a331103fe973118bba10b7">dc1133ac93a331103fe973118bba1074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_id>9c1133ac93a331103fe973118bba1077</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="1c11ff2c93a331103fe973118bba10b7">dc1133ac93a331103fe973118bba1074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_id>901133ac93a331103fe973118bba1078</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="1c11ff2c93a331103fe973118bba10b7">dc1133ac93a331103fe973118bba1074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile_phone</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_id>941133ac93a331103fe973118bba1078</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="1c11ff2c93a331103fe973118bba10b7">dc1133ac93a331103fe973118bba1074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>career_level</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_id>981133ac93a331103fe973118bba1078</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="1c11ff2c93a331103fe973118bba10b7">dc1133ac93a331103fe973118bba1074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_account</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_id>9c1133ac93a331103fe973118bba1078</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="1c11ff2c93a331103fe973118bba10b7">dc1133ac93a331103fe973118bba1074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_id>901133ac93a331103fe973118bba1079</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="1c11ff2c93a331103fe973118bba10b7">dc1133ac93a331103fe973118bba1074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>photo</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_id>941133ac93a331103fe973118bba1079</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="1c11ff2c93a331103fe973118bba10b7">dc1133ac93a331103fe973118bba1074</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1045591_corpor_0_employee</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:46:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc1133ac93a331103fe973118bba1074</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1045591_corpor_0_employee</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Corporate Gifting" source="x_1045591_corpor_0">49a35328932331103fe973118bba103f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corporate Gifting">49a35328932331103fe973118bba103f</sys_scope>
+            <sys_update_name>sys_ui_section_dc1133ac93a331103fe973118bba1074</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:46:30</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Corporate View" name="corporate_view">1c11ff2c93a331103fe973118bba10b7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

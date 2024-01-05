@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="32f82fe093a331103fe973118bba1007" sys_domain="global" table="x_1045591_corpor_0_employee" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:11:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3af82fe093a331103fe973118bba10d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1045591_corpor_0_employee" name="x_1045591_corpor_0_employee" sys_domain="global" view="Default view">32f82fe093a331103fe973118bba1007</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1045591_corpor_0_employee" sys_domain="global" view="Default view">d9ff17e4936331103fe973118bba102b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:11:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:11:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36f82fe093a331103fe973118bba10d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1045591_corpor_0_employee" name="x_1045591_corpor_0_employee" sys_domain="global" view="Default view">32f82fe093a331103fe973118bba1007</sys_ui_form>
+            <sys_ui_section caption="Corporate Appreciations" display_value="Corporate Appreciations" name="x_1045591_corpor_0_employee" sys_domain="global" view="Default view">f2f82fe093a331103fe973118bba1006</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:11:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1045591_corpor_0_employee</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-02 14:11:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32f82fe093a331103fe973118bba1007</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1045591_corpor_0_employee</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Corporate Gifting" source="x_1045591_corpor_0">49a35328932331103fe973118bba103f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corporate Gifting">49a35328932331103fe973118bba103f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_32f82fe093a331103fe973118bba1007</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-02 14:11:09</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
