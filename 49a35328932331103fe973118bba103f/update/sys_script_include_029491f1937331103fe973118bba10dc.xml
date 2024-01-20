@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1045591_corpor_0.EmployeeDetails</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>EmployeeDetails</name>
+        <script><![CDATA[var EmployeeDetails = Class.create();
+EmployeeDetails.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	getDetails: function() {
+		var employee = this.getParameter('sysparm_employee');
+		var employeeGR = new GlideRecord('x_1045591_corpor_0_employee');
+		employeeGR.get(employee);
+		employeeGR.query();
+		if(employeeGR.next()){
+			return employeeGR.project_account.getDisplayValue();
+		}
+    },
+    type: 'EmployeeDetails'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-18 10:52:28</sys_created_on>
+        <sys_id>029491f1937331103fe973118bba10dc</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>EmployeeDetails</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1045591_corpor_0">49a35328932331103fe973118bba103f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">49a35328932331103fe973118bba103f</sys_scope>
+        <sys_update_name>sys_script_include_029491f1937331103fe973118bba10dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-18 13:23:55</sys_updated_on>
+    </sys_script_include>
+</record_update>

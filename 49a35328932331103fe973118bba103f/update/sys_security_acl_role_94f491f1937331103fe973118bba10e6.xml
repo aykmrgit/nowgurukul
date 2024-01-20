@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-18 10:52:28</sys_created_on>
+        <sys_id>94f491f1937331103fe973118bba10e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EmployeeDetails.x_1045591_corpor_0.user</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1045591_corpor_0">49a35328932331103fe973118bba103f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">49a35328932331103fe973118bba103f</sys_scope>
+        <sys_security_acl display_value="EmployeeDetails">d4f491f1937331103fe973118bba10e2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_94f491f1937331103fe973118bba10e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-18 10:52:28</sys_updated_on>
+        <sys_user_role display_value="x_1045591_corpor_0.user" name="x_1045591_corpor_0.user">d1a35328932331103fe973118bba1065</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="E-Voucher Request">cf73dc11937331103fe973118bba1069</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 17:24:34</sys_created_on>
+        <sys_id>188b94d9937331103fe973118bba107f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>E-Voucher Request.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1045591_corpor_0">49a35328932331103fe973118bba103f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">49a35328932331103fe973118bba103f</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_188b94d9937331103fe973118bba107f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 17:24:34</sys_updated_on>
+        <user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">49a35328932331103fe973118bba103f</application>
+        <file_path/>
+        <instance_id>d4731d2ddba675d805ef17291396190e</instance_id>
+        <instance_name>dev213454</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_188b94d9937331103fe973118bba107f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="E-Voucher Request">cf73dc11937331103fe973118bba1069</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-16 17:24:34</sys_created_on><sys_id>188b94d9937331103fe973118bba107f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>E-Voucher Request.Users with 'Admin' Role</sys_name><sys_package display_value="Corporate Gifting" source="x_1045591_corpor_0">49a35328932331103fe973118bba103f</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">49a35328932331103fe973118bba103f</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_188b94d9937331103fe973118bba107f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-16 17:24:34</sys_updated_on><user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>1639727543</payload_hash>
+        <record_name>E-Voucher Request.Users with 'Admin' Role</record_name>
+        <reverted_from/>
+        <source>3efd2f6193e331103fe973118bba1047</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 17:24:34</sys_created_on>
+        <sys_id>248b94d9937331103fe973118bba1083</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d134dad840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 17:24:34</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>688b94d99973311056aa863f53720b82</update_guid>
+        <update_guid_history>688b94d99973311056aa863f53720b82:1639727543</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="E-Voucher Request.Users with 'Admin' Role">3bd527d693fb71103fe973118bba1017</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 10:42:39</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>6f1bafb2597d4d1b8fd2d83f9e9c9229</sys_id>
+        <sys_metadata>188b94d9937331103fe973118bba107f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>E-Voucher Request.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1045591_corpor_0">49a35328932331103fe973118bba103f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">49a35328932331103fe973118bba103f</sys_scope>
+        <sys_scope_delete display_value="">588530d4fee54e28bcd056ad3c9ac6e1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_188b94d9937331103fe973118bba107f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_188b94d9937331103fe973118bba107f">248b94d9937331103fe973118bba1083</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 10:42:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

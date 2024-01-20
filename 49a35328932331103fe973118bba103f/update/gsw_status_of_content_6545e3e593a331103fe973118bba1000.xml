@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_status_of_content">
+    <gsw_status_of_content action="INSERT_OR_UPDATE">
+        <best_practice_allowed_ever>0</best_practice_allowed_ever>
+        <checksum/>
+        <content display_value="Configuring your production instance">bb5f510f9b0770100290af417ef04bf8</content>
+        <effective_weight>1.047619</effective_weight>
+        <more_info_visited>false</more_info_visited>
+        <previous_status>0</previous_status>
+        <progress>86.3636366</progress>
+        <related_log_entry display_value="2024-01-05 08:33:40">3356a32993a331103fe973118bba10f9</related_log_entry>
+        <status>1</status>
+        <sys_class_name>gsw_status_of_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-05 16:28:53</sys_created_on>
+        <sys_id>6545e3e593a331103fe973118bba1000</sys_id>
+        <sys_mod_count>30</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1045591_corpor_0">49a35328932331103fe973118bba103f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">49a35328932331103fe973118bba103f</sys_scope>
+        <sys_update_name>gsw_status_of_content_6545e3e593a331103fe973118bba1000</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-05 16:33:40</sys_updated_on>
+    </gsw_status_of_content>
+</record_update>

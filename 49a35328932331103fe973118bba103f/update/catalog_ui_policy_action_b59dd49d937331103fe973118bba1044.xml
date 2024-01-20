@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:7e05dc91937331103fe973118bba105c</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 17:33:48</sys_created_on>
+        <sys_id>b59dd49d937331103fe973118bba1044</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>u_requested_by</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1045591_corpor_0">49a35328932331103fe973118bba103f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">49a35328932331103fe973118bba103f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_b59dd49d937331103fe973118bba1044</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 17:48:31</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Read Only Requested by">1034d4dd933331103fe973118bba10a0</ui_policy>
+        <variable>u_requested_by</variable>
+        <variable_set display_value="Requested By">43e35851937331103fe973118bba1017</variable_set>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>
